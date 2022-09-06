@@ -1,0 +1,3 @@
+commit Variables folder 
+commit basics folder
+change strings folder commit massage
