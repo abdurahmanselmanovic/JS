@@ -1,4 +1,4 @@
-# JS
+# JavaScript
 
 This repository is full guide for beginners
 
