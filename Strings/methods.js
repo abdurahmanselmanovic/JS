@@ -14,3 +14,4 @@ console.log(text.toUpperCase());
 let text1 = "HELLO WORLD";
 console.log(text1.toLowerCase());
 // OUTPUT: hello world
+//
