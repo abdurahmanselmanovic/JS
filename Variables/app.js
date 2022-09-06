@@ -19,3 +19,4 @@ const x = 12;
 // 1. slovom
 // 2. donjom crtom
 // 3. dolar znakom $$$$$$$$$$$
+//
