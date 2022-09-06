@@ -7,8 +7,10 @@ console.log(recenica.length);
 
 let text = "Hello world";
 console.log(text.toUpperCase());
+// OUTPUT: HELLO WORLD
 
 // Ukoliko zelimo da recenicu prevedemo u mala slova koristimo metodu .toLowerCase()
 
 let text1 = "HELLO WORLD";
 console.log(text1.toLowerCase());
+// OUTPUT: hello world
