@@ -8,4 +8,4 @@ console.log(typeof y.toString());
 // JS metodu toPrecision()
 
 let x = 12.925922229222;
-console.log(x.toPrecision(4));
+console.log(x.toPrecision(4)); //
