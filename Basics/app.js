@@ -3,6 +3,6 @@
 // JavaScript je case-sensitive. (RAZLIKUJE VELIKA I MALA SLOVA)
 
 // Najlaksi nacin za prikazivanje podataka u JS je pomocu
-// document.write() komande
+// console.log() komande
 
 // JavaScript je programski jezik sa najvise framework-ova
