@@ -10,3 +10,4 @@ This repository is full guide for beginners which start with JS
     3. Operators
     4. Strings
     5. Variables
+    6. Arrays
