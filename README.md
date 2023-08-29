@@ -1,6 +1,6 @@
 # JavaScript Full Guide
 
-This repository is a full guide for beginners, which starts with JS.
+This repository is a full guide for beginners, which starts with JS. <br>
 Every chapter has been studied down to the smallest detail.
 
 ### This repostroy contain
